@@ -1,4 +1,4 @@
-# Practical deep learning tutorial for beginners
+# A practical deep learning tutorial for beginners
 This is a tutorial for getting started with deep learning using Tensorflow2 and Keras, created by Siiri Rautio, University of Helsinki.
 
 The tutorial has the following parts:
