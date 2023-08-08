@@ -21,4 +21,7 @@ As well as the dataset of 5000 sinogram .mat-files:
 https://www.dropbox.com/scl/fo/rk6l1fi2pjfsupplyc4ix/h?rlkey=59c0m80y6894f5tmn94tgtb4n&dl=0
 
 ## Part 3: Using your own data
-Experiment with your own data, solving problems that are relevant for you. Use the codes from part2 as a staring point.
+Experiment with your own data, solving problems that are relevant for you. Use the codes from part2 as a staring point. 
+If you don't have a problem of your own you wish to solve, you can for example try learning computed tomography reconstruction, using ``part3_project```. 
+Here is some data for this, ellipses that correspond to the inverse Radon transform of the previous sinograms:
+https://www.dropbox.com/scl/fo/9va4plcvr1hvrzqzper2e/h?rlkey=u1ing795uxnwzoo0ail2y372p&dl=0
